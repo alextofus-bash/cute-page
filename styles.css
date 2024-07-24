@@ -3,19 +3,19 @@
 */
 
 :root {
-  --body-bg: #3f3f3f;
+  --body-bg: #faf4ed;
   --bg: #1f1f1f;
-  --fg: #d4d4d4;
-  --directory: #83a06c;
-  --prompt: #83a06c;
+  --fg: #575279;
+  --directory: #000000;
+  --prompt: #000000;
   --cursor: var(--fg);
   --listItem: var(--fg);
   --listTitle: var(--fg);
   --link: var(--fg);
   --tree: var(--fg);
 
-  --fontSize: 13px;
-  --fontFamily: "Source Code Pro", monospace;
+  --fontSize: 10px;
+  --fontFamily: "Monocraft", monospace;
 }
 
 body.dark {
