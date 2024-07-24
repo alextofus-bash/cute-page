@@ -6,8 +6,8 @@
   --body-bg: #efdcc5;
   --bg: #faf4ed;
   --fg: #000000;
-  --directory: #000000;
-  --prompt: #000000;
+  --directory: #ffffff;
+  --prompt: #ffffff;
   --cursor: var(--fg);
   --listItem: var(--fg);
   --listTitle: var(--fg);
