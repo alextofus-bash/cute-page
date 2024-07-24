@@ -3,9 +3,9 @@
 */
 
 :root {
-  --body-bg: #faf4ed;
-  --bg: #1f1f1f;
-  --fg: #575279;
+  --body-bg: #efdcc5;
+  --bg: #faf4ed;
+  --fg: #000000;
   --directory: #000000;
   --prompt: #000000;
   --cursor: var(--fg);
